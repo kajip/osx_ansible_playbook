@@ -1,0 +1,18 @@
+---
+homebrew_packages:
+  - git-flow
+  - gradle
+  - scala
+  - graphviz
+  - pyenv
+  - pyenv-virtualenv
+  - rbenv
+  - node
+  - nvm
+  - tree
+  - jq
+  - cowsay
+
+homebrew_cask_packages:
+#  - docker
+  - sourcetree
