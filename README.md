@@ -6,12 +6,8 @@ Macに開発環境を構築するための Ansible Playbook
 
 ## ロール
 
-1. pyenv/pyenv-aaa
-
-
-2. homebrew
+1. homebrew
     - homebrew 及び homebrew cask を使って必要なパッケージをインストール
-
 
 ## 実行前の準備
 
