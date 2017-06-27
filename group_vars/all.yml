@@ -14,5 +14,8 @@ homebrew_packages:
   - cowsay
 
 homebrew_cask_packages:
-#  - docker
   - sourcetree
+  - vagrant
+  - virtualbox
+  - docker
+  - table-tool
